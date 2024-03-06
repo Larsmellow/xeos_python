@@ -1,0 +1,1 @@
+Runs folder contains two folders, EoS and TOV, which contain equations of state and MR curves, respectively. There is also a parameter file, where the n-th line gives the parameters of file named n.txt
